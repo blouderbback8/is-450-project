@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: 'Old Western', cursive; 
+  background-color: #f0f0f0; 
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+  color: rgb(245, 193, 24); /* Set ANSWER text color*/
+}
+
+.App {
+  width: 80%; 
+  background-color: white; /* Set background color for the app container */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden; 
+  text-align: center; 
+}
+
+.argument {
+  background-color: rgba(0, 0, 0, 0.5); 
+  padding: 10px;
+  color: white;
+}
+
+.question {
+  margin-bottom: 20px;
+  text-align: center; 
+  color: rgb(238, 255, 0); /* Set QUESTION text color */
+}
+
+.answer-options label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1em; /* Default font size */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+  button {
+    padding: 8px 16px; /* Decrease padding for smaller screens */
+    font-size: 0.8em; /* Decrease font size for smaller screens */
+    position: relative; /* Set position to relative */
+    margin-top: 20px; /* Add some top margin to the button */
+  }
+}
+
+.score {
+  color: yellow;/* Set SCORE text color to yellow */
+}

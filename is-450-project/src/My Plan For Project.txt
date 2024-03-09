@@ -1,0 +1,11 @@
+THIS WEEKEND: Get AI generated files for to match my backgrounds.  Test it to make sure it works. Start research on my new background
+idea.
+
+MONDAY'S POMODORO:  Make the background change in accordance with the score.  Shades of red will be the lowest scrores, then it will 
+gradually to yellow and then green will be the best.
+
+TUESDAY'S POMODORO: Finish background, test everything / Deploy it to S3. 
+
+WEDNESDAY'S POMODORO: Continue testing and deploy it to S3.
+
+THURSDAY'S POMODORO: Continue deploying it to S3 until I deploy it to S3.
