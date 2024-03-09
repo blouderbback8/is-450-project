@@ -1,11 +1,29 @@
-THIS WEEKEND: Get AI generated files for to match my backgrounds.  Test it to make sure it works. Start research on my new background
-idea.
+2/13/2024 Try and fix the scenario sections.  Not sure if it's worth the code even.
 
-MONDAY'S POMODORO:  Make the background change in accordance with the score.  Shades of red will be the lowest scrores, then it will 
-gradually to yellow and then green will be the best.
+2/20/2024 Get rid of the scenario sections. Also switched the quiz and made it a game type of thing where it keeps score and changes the background.
 
-TUESDAY'S POMODORO: Finish background, test everything / Deploy it to S3. 
+3/1/2024: Got AI generated files for to match my backgrounds.  Tested it to make sure it worked. Started research on my new background
+idea.  Finished the background idea. Make the background change in accordance with the score.  Shades of red will be the lowest scrores, then it will 
+gradually to yellow and then green will be the best. Started researching music idea.
 
-WEDNESDAY'S POMODORO: Continue testing and deploy it to S3.
+3/4/2024: Changed the color of background to match the images better.  Shades of dark grey colors will be the lowest scrores, then it will 
+gradually to yell and then green will be the best.  Implemented music somewhere around here.
 
-THURSDAY'S POMODORO: Continue deploying it to S3 until I deploy it to S3.
+3/5/2024: Worked on CSS background
+
+3/6/2024. Worked on CS design.
+
+3/7/2024: Worked on banner, implemented it.
+
+3/8/2024 Deployed sight to S3, applied for advertisements, did all the work and got this message.  "is302brianlouderback0pmpquiz.s3-website-us-west-2.amazonaws.com
+
+  Getting your site ready to show ads
+
+  Verify site ownership
+  Review requested
+  We will run some checks on your site. This usually takes a few days, but in some cases can take up to 2 weeks. Learn more about site approvals
+
+  Request time: 08 Mar 2024 17:07"  So I have to wait until then.  Once you get the URL correct they can just chose for you where to place the advertisements, 
+  which was the only option I could get to work, the other options told failed to connect.
+
+3/9/2024 Deployed and updated everything to GitHub. Updated this Project plan.  Winter Project Closed.
